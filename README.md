@@ -1,4 +1,4 @@
-# Job Application Tracker
+# JobQuest Application Tracker
 
 A modern web application for tracking job applications built with React, TypeScript, Tailwind CSS, and shadcn/ui.
 
@@ -25,22 +25,24 @@ A modern web application for tracking job applications built with React, TypeScr
 - Node.js (v14 or higher)
 - npm or yarn
 
-Project Structure
+# 📁 Project Structure — Job Application Tracker
 
+```plaintext
 job-application-tracker/
-├── public/ # Static assets
+├── public/                 # Static assets (images, icons, etc.)
 ├── src/
-│ ├── components/ # UI components
-│ │ ├── applications/ # Application-related components
-│ │ ├── dashboard/ # Dashboard components
-│ │ └── ui/ # UI library components
-│ ├── context/ # React context providers
-│ ├── hooks/ # Custom React hooks
-│ ├── lib/ # Utility functions
-│ ├── pages/ # Page components
-│ └── types/ # TypeScript type definitions
-├── index.html # HTML entry point
-└── package.json # Project dependencies and scripts
+│   ├── components/         # UI components
+│   │   ├── applications/   # Components related to job applications
+│   │   ├── dashboard/      # Components for the dashboard UI
+│   │   └── ui/             # Reusable UI components (buttons, modals, etc.)
+│   ├── context/            # React context providers
+│   ├── hooks/              # Custom React hooks
+│   ├── lib/                # Utility and helper functions
+│   ├── pages/              # Top-level page components
+│   └── types/              # TypeScript type definitions and interfaces
+├── index.html              # HTML entry point
+└── package.json            # Project dependencies and scripts
+```
 
 Usage
 Dashboard
