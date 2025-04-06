@@ -2,6 +2,8 @@
 
 A modern web application for tracking job applications built with React, TypeScript, Tailwind CSS, and shadcn/ui.
 
+![JobQuest jobs page](https://github.com/nuraly-v/JobQuest/blob/main/public/screenshots/image.png?raw=true)
+
 ## Features
 
 - **Dashboard**: Visualize application statistics with charts and summaries
@@ -18,7 +20,12 @@ A modern web application for tracking job applications built with React, TypeScr
 - shadcn/ui component library
 - React Router for navigation
 
-## Getting Started
+## Screenshots of the app
+
+![JobQuest Applications page](https://github.com/nuraly-v/JobQuest/blob/main/public/screenshots/image2.png?raw=true)
+![JobQuest Applications page - search feature](https://github.com/nuraly-v/JobQuest/blob/main/public/screenshots/image3.png?raw=true)
+![Add Application modal](https://github.com/nuraly-v/JobQuest/blob/main/public/screenshots/image4.png?raw=true)
+![Dashboard](https://github.com/nuraly-v/JobQuest/blob/main/public/screenshots/image5.png?raw=true)
 
 ### Prerequisites
 
